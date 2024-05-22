@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lester</h1>
-<h3 align="center">A curious individual exploring areas of tech in Finance</h3>
+<h3 align="center">A curious individual exploring areas of tech in Finance.</h3>
 
 
 - 🌱 I’m currently learning **computer science from an open-sourced curriculum from [OSSU](https://github.com/ossu/computer-science)**
@@ -33,3 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natretsel&show_icons=true&locale=en&theme=gruvbox" alt="natretsel" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natretsel&theme=gruvbox" alt="natretsel" /></a> </p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/lesterrrtan)](https://leetcode.com/lesterrrtan)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lesterrrtan?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lesterrrtan?ext=contest)
