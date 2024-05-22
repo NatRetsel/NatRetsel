@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natretsel&show_icons=true&locale=en" alt="natretsel" /></p>
 
-![NatRetsel's GitHub stats](https://github-readme-stats.vercel.app/api?username=natretsel&hide=contribs,prs)
+![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=natretsel&hide=contribs,prs)
