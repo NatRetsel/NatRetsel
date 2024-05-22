@@ -29,6 +29,7 @@
 </p>
 
 <hr>
+
 ### Just some stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natretsel&theme=gruvbox" alt="natretsel" /></p>
