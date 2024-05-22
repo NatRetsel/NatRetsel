@@ -36,6 +36,15 @@ A curious individual exploring tech in finance, looking to learn data, trade exe
 
 <br />
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lester-tan-4b135413b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lester-tan-4b135413b" height="30" width="40" /></a>
+<a href="https://medium.com/@natretsel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@natretsel" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lesterrrtan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lesterrrtan" height="30" width="40" /></a>
+</p>
+
+#
+
 <details>
   <summary>📊 LC stats</summary>
   <p><img align="left" alt="LCStats" src="https://leetcard.jacoblin.cool/lesterrrtan?ext=heatmap"/></p>
@@ -45,11 +54,4 @@ A curious individual exploring tech in finance, looking to learn data, trade exe
 
 #
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lester-tan-4b135413b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lester-tan-4b135413b" height="30" width="40" /></a>
-<a href="https://medium.com/@natretsel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@natretsel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lesterrrtan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lesterrrtan" height="30" width="40" /></a>
-</p>
 
-#
