@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natretsel&show_icons=true&locale=en&layout=compact" alt="natretsel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natretsel&show_icons=true&locale=en" alt="natretsel" /></p>
-
-![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=natretsel&hide=contribs,prs)
