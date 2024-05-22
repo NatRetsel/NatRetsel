@@ -10,6 +10,7 @@ A curious individual exploring tech in finance, looking to learn data, trade exe
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@natretsel/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@natretsel/1" alt="Recent Article 1"> 
 
+#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +34,6 @@ A curious individual exploring tech in finance, looking to learn data, trade exe
 <br />
 
 #
-
-<hr>
 
 ### 📊 Stats
 
