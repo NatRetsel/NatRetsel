@@ -1,18 +1,10 @@
-<h1 align="center">Hi 👋, I'm Lester</h1>
-<h3 align="center">A curious individual exploring areas of tech in finance.</h3>
+# NatRetsel
 
+<hr>
 
-- 🌱 I’m currently learning **computer science from an open-sourced curriculum from [OSSU](https://github.com/ossu/computer-science)**
+A curious individual exploring tech in finance, looking to learn data, trade execution, and strategy backtesting pipelines for funsies. Currently, I'm brushing up on my CS fundamentals from [OSSU](https://github.com/ossu/computer-science). Sometimes I write articles on my learnings and leetcode questions on [Medium](https://medium.com/@natretsel). Fun fact: NatRetsel is an anagram (specifically a semordnilap) of my name.
 
-- 📝 I sometimes write articles on [Medium](https://medium.com/@natretsel)
-
-- 📫 How to reach me **twjlester@gmail.com / natretseltries@gmail.com**
-
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/lester-tan-4b135413b/)
-
-- ⚡ Fun fact: **NatRetsel is an anagram (specifically a semordnilap) of my name**
-
-### Blogs posts
+### 📔 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -31,15 +23,15 @@
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 <br />
 
 
@@ -47,12 +39,8 @@
 
 ### 📊 Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natretsel&theme=gruvbox" alt="natretsel" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natretsel&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="natretsel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natretsel&show_icons=true&locale=en&theme=gruvbox" alt="natretsel" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natretsel&theme=gruvbox" alt="natretsel" /></a> </p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lesterrrtan?ext=heatmap)
