@@ -3,7 +3,10 @@
 A curious individual exploring tech in finance, looking to learn data, trade execution, and strategy backtesting pipelines for funsies. Currently, I'm brushing up on my CS fundamentals from [OSSU](https://github.com/ossu/computer-science). Sometimes I write articles on my learnings and leetcode questions on [Medium](https://medium.com/@natretsel). Fun fact: NatRetsel is an anagram (specifically a semordnilap) of my name.
 
 ### 📔 Blog posts
-[![NatRetsel Medium](https://github-readme-medium.vercel.app/?username=natretsel)](https://medium.com/@natretsel)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@natretsel/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@natretsel/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@natretsel/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@natretsel/1" alt="Recent Article 1"> 
+
 
 #
 
