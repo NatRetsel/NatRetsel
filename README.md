@@ -45,6 +45,6 @@ A curious individual exploring tech in finance, looking to learn data, trade exe
 
 <details>
   <summary>📊 LC stats</summary>
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/lesterrrtan?ext=heatmap)
+  ![](https://leetcard.jacoblin.cool/lesterrrtan?ext=heatmap)
 </details>
 
