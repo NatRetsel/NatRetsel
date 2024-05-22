@@ -19,6 +19,8 @@ A curious individual exploring tech in finance, looking to learn data, trade exe
 <a href="https://www.leetcode.com/lesterrrtan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lesterrrtan" height="30" width="40" /></a>
 </p>
 
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -45,6 +47,7 @@ A curious individual exploring tech in finance, looking to learn data, trade exe
 
 <details>
   <summary>📊 LC stats</summary>
-  ![](https://leetcard.jacoblin.cool/lesterrrtan?ext=heatmap)
+  <img align="left" alt="LCStats" src="https://leetcard.jacoblin.cool/lesterrrtan?ext=heatmap"/>
 </details>
 
+#
