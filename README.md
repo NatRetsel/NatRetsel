@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lester</h1>
 <h3 align="center">A curious individual exploring areas of tech in Finance</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natretsel&label=Profile%20views&color=0e75b6&style=flat" alt="natretsel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=natretsel&label=Profile%20views&color=0e75b6&style=flat&theme=gruvbox" alt="natretsel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natretsel" alt="natretsel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natretsel&theme=gruvbox" alt="natretsel" /></a> </p>
 
 - 🌱 I’m currently learning **computer science from an open-sourced curriculum from [OSSU](https://github.com/ossu/computer-science)**
 
