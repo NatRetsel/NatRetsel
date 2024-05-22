@@ -37,9 +37,11 @@ A curious individual exploring tech in finance, looking to learn data, trade exe
 
 ### 📊 Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=natretsel&show_icons=true&locale=en&theme=gruvbox" alt="natretsel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=natretsel&show_icons=true&locale=en&theme=gruvbox" alt="natretsel" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natretsel&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="natretsel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natretsel&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="natretsel" /></p>
+
+#
 
 <details>
   <summary>📊 LC stats</summary>
