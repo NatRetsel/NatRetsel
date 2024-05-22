@@ -34,6 +34,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natretsel&theme=gruvbox" alt="natretsel" /></a> </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lesterrrtan)](https://leetcode.com/lesterrrtan)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lesterrrtan?ext=heatmap)
-![Leetcode Stats](https://leetcard.jacoblin.cool/lesterrrtan?ext=contest)
