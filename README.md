@@ -1,10 +1,8 @@
 # NatRetsel
 
-<hr>
-
 A curious individual exploring tech in finance, looking to learn data, trade execution, and strategy backtesting pipelines for funsies. Currently, I'm brushing up on my CS fundamentals from [OSSU](https://github.com/ossu/computer-science). Sometimes I write articles on my learnings and leetcode questions on [Medium](https://medium.com/@natretsel). Fun fact: NatRetsel is an anagram (specifically a semordnilap) of my name.
 
-### 📔 Blogs posts
+### 📔 Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -34,6 +32,7 @@ A curious individual exploring tech in finance, looking to learn data, trade exe
 
 <br />
 
+#
 
 <hr>
 
