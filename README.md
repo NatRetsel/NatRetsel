@@ -43,7 +43,7 @@ A curious individual exploring tech in finance, looking to learn data, trade exe
 
 #
 
-<details>
-  <summary>📊 LC stats</summary>
-  <p><img align="left" alt="LCStats" src="https://leetcard.jacoblin.cool/lesterrrtan?ext=heatmap"/></p>
-</details>
+
+📊 LC stats
+<p><img align="left" alt="LCStats" src="https://leetcard.jacoblin.cool/lesterrrtan?ext=heatmap"/></p>
+
