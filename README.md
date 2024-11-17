@@ -1,12 +1,6 @@
 # 👋 NatRetsel (Lester)
 
-A curious individual exploring tech in finance, looking to learn data, trade execution, and strategy backtesting pipelines for funsies. Currently, I'm brushing up on my CS fundamentals from [OSSU](https://github.com/ossu/computer-science). Sometimes I write articles on my learnings and leetcode questions on [Medium](https://medium.com/@natretsel). Fun fact: NatRetsel is an anagram (specifically a semordnilap) of my name. Appreciator of memes and trolling.
-
-### 📔 Blog posts
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@natretsel/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@natretsel/0" alt="Recent Article 0"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@natretsel/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@natretsel/1" alt="Recent Article 1"> 
-
+Appreciator of memes and trolling.
 
 #
 
@@ -40,10 +34,4 @@ A curious individual exploring tech in finance, looking to learn data, trade exe
 <a href="https://medium.com/@natretsel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@natretsel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lesterrrtan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lesterrrtan" height="30" width="40" /></a>
 </p>
-
-#
-
-
-📊 LC stats
-<p><img align="left" alt="LCStats" src="https://leetcard.jacoblin.cool/lesterrrtan?ext=heatmap"/></p>
 
