@@ -1,6 +1,6 @@
-# Don't Let Your Memes Be Dreams
+# Memes and Dreams
 
-Life is too short, experience it to the fullest with memes.
+Can't say, signed an NDA
 
 
 ### 📊 Stats
