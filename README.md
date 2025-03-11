@@ -2,8 +2,7 @@
 
 Intrigued by the prospects of AI agents, yet consumed by the dystopian rabbithole.
 
-> “The man who lies to himself can be more easily offended than any one.”
-> - Brothers Karamazov
+
 
 
 
