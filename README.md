@@ -1,6 +1,6 @@
 # NatRetsel
 
-Intrigued by the prospects of AI agents, yet consumed by the dystopian rabbithole.
+Intrigued by the prospects of AI agents, yet cautious of the dystopia.
 
 
 
