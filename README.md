@@ -10,7 +10,7 @@ Intrigued by the prospects of AI agents, yet cautious of the dystopia.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=natretsel&show_icons=true&locale=en&theme=gruvbox" alt="natretsel" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natretsel&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="natretsel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natretsel&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10&hide=html,mako,shell" alt="natretsel" /></p>
 
 <br />
 
